@@ -15,7 +15,7 @@ def get_days(year, month)
     end
 
     return days
-  end
+end
 
   puts "年を入力してください："
   year = gets.to_i
